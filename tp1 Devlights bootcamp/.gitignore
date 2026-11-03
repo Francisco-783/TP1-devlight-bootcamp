@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.sln.iml
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.suo
+*.userprefs
+
+# IDE
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment files
+appsettings.local.json

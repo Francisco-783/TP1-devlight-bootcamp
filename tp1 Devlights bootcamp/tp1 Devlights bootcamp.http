@@ -1,0 +1,6 @@
+@tp1_Devlights_bootcamp_HostAddress = http://localhost:5225
+
+GET {{tp1_Devlights_bootcamp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
